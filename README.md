@@ -1,9 +1,10 @@
-#K-Nearest Neighbors Classification
+# K-Nearest Neighbors Classification
 
 This project was a part of the Masters of Science in Business Analytics at the University of Montana. 
 
 ## Project Intro/Objective
 This project aims to use K-Nearest Neighbors (KNN) to classify a local tavern's customer base. These classifications can be used to target audiences for marketing purposes to increase RIO, retain customers and learn more business insights.
+
 <img src="euclidean_distance.svg">
 
 ## Project Description
@@ -21,7 +22,7 @@ Plots made with Seaborn were used to help understand the accuracy and the datase
 
 
 
-##About the Dataset: 
+## About the Dataset: 
 
 * `customer_id`: a unique ID for the customer
 * `most_popular_category`: the most popular drink category for the customer
